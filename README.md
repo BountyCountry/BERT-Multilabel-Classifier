@@ -1,5 +1,7 @@
 # BERT-Multilabel-Classifier
 
+This repo was produced by Bounty Country Pty Ltd in collaboration with K3 Partners. 
+
 Before getting started you will want to go and download your choice of BERT base model from https://github.com/google-research/bert or from the BountyCountry git repo
 For this notebook we use Bert-Base, Cased If you can fit Bert-Large into GPU memory then I congratulate you as you are a very wealthy person. The zip file of the model will have six files in it and your model will need them all in the same directory as this notebook.
 
